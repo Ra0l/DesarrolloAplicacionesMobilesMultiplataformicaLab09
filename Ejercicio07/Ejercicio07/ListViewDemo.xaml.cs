@@ -7,6 +7,8 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
+//aprendiendo
+
 namespace Ejercicio07
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
