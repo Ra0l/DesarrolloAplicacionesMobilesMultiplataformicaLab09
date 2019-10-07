@@ -35,7 +35,7 @@ namespace Ejercicio07
                 Details = "The blue monkey or diademed monkey is a species of Old World monkey native to Central and East Africa, ranging from the upper Congo River basin east to the East African Rift and south to northern Angola and Zambia",
                 ImageUrl = "http://upload.wikimedia.org/wikipedia/commons/thumb/8/83/BlueMonkey.jpg/220px-BlueMonkey.jpg"
             });
-
+            //hala hola mom
             Monkeys.Add(new Monkey
             {
                 Name = "Squirrel Monkey",
