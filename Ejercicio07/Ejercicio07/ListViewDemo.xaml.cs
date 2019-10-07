@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-//aprendiendo
+//aprendiendo data binding
 
 namespace Ejercicio07
 {
